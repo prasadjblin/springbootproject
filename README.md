@@ -1,4 +1,5 @@
 <img align="left" width="48" height="48" src="./spring-boot-logo.jpg">
+
 # Spring Boot Application Example
 This is a sample Java / Maven / Spring Boot application which provides RESTful services. Compiled in Java 11. Currently it is designed to get two sample GET services `{domain}/api/getproductdetails` and `{domain}/api/getconfigdetails` 
 
