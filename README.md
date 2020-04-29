@@ -44,31 +44,34 @@ POSTMAN is used to test the REST apis. If you dont have install it [from here](h
 for sending request use any one of credentials
 5. Click on the **Authorization** tab and in the **TYPE** dropdown choose **Basic Auth** use any one of the above credentials in username and password text boxes
 6. Click on **Send** button, we will get response like below
- 		{ 
+ ```		
+ 	{ 
 		"isSuccess":true,
 		"message": "product details api responded",
 		"internalCode": 1,
 		"response": [
-				{
-				"id": 101,
-				"name": "Ms Office",
-				"manufacturer": "Microsoft",
-				"price": 1500
-				},
-				{
-				"id": 102,
-				"name": "Norton Antivirus",
-				"manufacturer": "Norton",
-				"price": 899
-				},
-				{
-				"id": 103,
-				"name": "Maya 3D",
-				"manufacturer": "Autodesk",
-				"price": 5500
-				}
+			{
+			"id": 101,
+			"name": "Ms Office",
+			"manufacturer": "Microsoft",
+			"price": 1500
+			},
+			{
+			"id": 102,
+			"name": "Norton Antivirus",
+			"manufacturer": "Norton",
+			"price": 899
+			},
+			{
+			"id": 103,
+			"name": "Maya 3D",
+			"manufacturer": "Autodesk",
+			"price": 5500
+			}
 			]
 		}
+```
+
 
 ### Snapshot
 
