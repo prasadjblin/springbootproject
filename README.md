@@ -70,4 +70,6 @@ for sending request use any one of credentials
 			]
 		}
 
+### Snapshot
 
+![](./postman-snap.png)
